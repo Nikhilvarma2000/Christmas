@@ -64,7 +64,7 @@ function About() {
           <div className="mt-10 flex justify-center">
             <img
               src="https://via.placeholder.com/600x400"
-              alt="Our Story Image"
+              alt="Our Story "
               className="rounded-lg shadow-lg w-full max-w-2xl hover:scale-105 transform transition-all duration-500 hover:shadow-2xl hover:shadow-yellow-500"
             />
           </div>
